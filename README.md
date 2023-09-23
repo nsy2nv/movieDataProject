@@ -1,5 +1,6 @@
 # movieDataProject
 BACKGROUND OF THE STUDY
+
 We are entertained, educated, or become aware of critical social issues when we see movies. 
 We learn about a new culture, experience a different perspective, or open our eyes to a world we know nothing about.
 Movies also change culture by influencing the beliefs, opinions, and behaviors of the people who see them. 
@@ -9,6 +10,7 @@ for thousands of people from all walks of life and generating billions of dollar
 seek to investigate the following using the revenue dataset. 
 
 RESEARCH QUESTIONS
+
 •	Is there a correlation between the total gross revenue and the number of releases for a movie?
 
 •   What is the highest total grossing movie for the dataset?
